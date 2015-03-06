@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Xiang Ji's Webpage
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: A place for some footprints
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
