@@ -1,76 +1,72 @@
 ---
 layout: default
-title: About
+title: Courses Taken
 ---
 
-#2015
+#2015 *Spring*
 
-*Spring*
+ST | 552 | <code>&nbsp;&nbsp;&nbsp;</code>Linear Models and Variance Components
+:------------- | :------------- |:-------------
+ST | 744 | <code>&nbsp;&nbsp;&nbsp;</code>Categorical Data Analysis
+ST | 793 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Statistical Inference
 
-ST  552  Linear Models and Variance Components
+<br>
 
-ST  744  Categorical Data Analysis
+#2014 *Fall*
 
-ST  793  Advanced Statistical Inference
+MA | 810 | <code>&nbsp;&nbsp;&nbsp;</code>SAMSI course in Evolution
+:------------- | :------------- |:-------------
+ST | 758 | <code>&nbsp;&nbsp;&nbsp;</code>Computation for Stat Research
+ST | 779 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Probability
 
-#2014
+<br>
 
-*Spring*
+#2014 *Spring*
 
-GN  521  Molecular Genetics
+GN | 521 | <code>&nbsp;&nbsp;&nbsp;</code>Molecular Genetics
+:------------- | :------------- |:-------------
+ST | 522 | <code>&nbsp;&nbsp;&nbsp;</code>Statist Theory I
+ST | 590 | <code>&nbsp;&nbsp;&nbsp;</code>Bio-informatics II
+ST | 746 | <code>&nbsp;&nbsp;&nbsp;</code>Introduction To Stochastic Processes
 
-ST  522  Statist Theory II
+<br>
 
-ST  590  Bio-informatics II
+#2013 *Fall*
 
-ST  746  Introduction To Stochastic Processes
+ST | 512 | <code>&nbsp;&nbsp;&nbsp;</code>Experimental Statistics For Biological Sciences II
+:------------- | :------------- |:-------------
+ST | 521 | <code>&nbsp;&nbsp;&nbsp;</code>Statistical Theory I
+ST | 590 | <code>&nbsp;&nbsp;&nbsp;</code>Bio-informatics I
 
-*Fall*
+<br>
 
-MA  810  SAMSI course in Evolution
+#2013 *Spring*
 
-ST  758  Computation for Stat Research
+MSE | 770 | <code>&nbsp;&nbsp;&nbsp;</code>Defects, Diffusion and Ion Implantation In Semiconductors
 
-ST  779  Advanced Probability
+<br>
 
-#2013
+#2012 *Fall*
 
-*Spring*
+ECE | 792 | <code>&nbsp;&nbsp;&nbsp;</code>Special Topics In Electrical Engineering
+:------------- | :------------- |:-------------
+MSE | 706 | <code>&nbsp;&nbsp;&nbsp;</code>Phase Transformations and Kinetics
+MSE | 708 | <code>&nbsp;&nbsp;&nbsp;</code>Thermodynamics Of Materials
+ST  | 515 | <code>&nbsp;&nbsp;&nbsp;</code>Experimental Statistics for Engineers I
+ST  | 756 | <code>&nbsp;&nbsp;&nbsp;</code>Computational Molecular Evolution
 
-MSE 770  Defects, Diffusion and Ion Implantation In Semiconductors
+<br>
 
-*Fall*
+#2012 *Spring*
 
-ST  512  Experimental Statistics For Biological Sciences II
+MSE | 705 | <code>&nbsp;&nbsp;&nbsp;</code>Mechanical Behavior Of Engineering Materials
+:------------- | :------------- |:-------------
+MSE | 751 | <code>&nbsp;&nbsp;&nbsp;</code>Thin Film and Coating Science and Technology I
 
-ST  521  Statistical Theory I
+<br>
 
-ST  590  Bio-informatics I
+#2011 *Fall*
 
-#2012
-
-*Spring*
-
-MSE 705  Mechanical Behavior Of Engineering Materials
-
-MSE 751  Thin Film and Coating Science and Technology I
-
-*Fall*
-
-ECE 792  Special Topics In Electrical Engineering
-
-MSE 706  Phase Transformations and Kinetics
-
-MSE 708  Thermodynamics Of Materials
-
-ST  515  Experimental Statistics for Engineers I
-
-ST  756  Computational Molecular Evolution
-
-#2011 
-
-*Fall*
-
-PY  525   Computational Pysics
+PY  | 525 | <code>&nbsp;&nbsp;&nbsp;</code>Computational Pysics
 
 
