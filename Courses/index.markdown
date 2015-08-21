@@ -33,7 +33,7 @@ ST | 779 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Probability
 
 GN | 521 | <code>&nbsp;&nbsp;&nbsp;</code>Molecular Genetics
 :------------- | :------------- |:-------------
-ST | 522 | <code>&nbsp;&nbsp;&nbsp;</code>Statist Theory I
+ST | 522 | <code>&nbsp;&nbsp;&nbsp;</code>Statist Theory II
 ST | 590 | <code>&nbsp;&nbsp;&nbsp;</code>Bio-informatics II
 ST | 746 | <code>&nbsp;&nbsp;&nbsp;</code>Introduction To Stochastic Processes
 
@@ -59,7 +59,7 @@ MSE | 770 | <code>&nbsp;&nbsp;&nbsp;</code>Defects, Diffusion and Ion Implantati
 ECE | 792 | <code>&nbsp;&nbsp;&nbsp;</code>ASSIST Course: Low Power Electronics
 :------------- | :------------- |:-------------
 MSE | 706 | <code>&nbsp;&nbsp;&nbsp;</code>Phase Transformations and Kinetics
-MSE | 708 | <code>&nbsp;&nbsp;&nbsp;</code>Thermodynamics Of Materials
+MSE | 708 | <code>&nbsp;&nbsp;&nbsp;</code>Thermodynamics of Materials
 ST  | 515 | <code>&nbsp;&nbsp;&nbsp;</code>Experimental Statistics for Engineers I
 ST  | 756 | <code>&nbsp;&nbsp;&nbsp;</code>Computational Molecular Evolution
 
@@ -75,6 +75,6 @@ MSE | 751 | <code>&nbsp;&nbsp;&nbsp;</code>Thin Film and Coating Science and Tec
 
 #2011 *Fall*
 
-PY  | 525 | <code>&nbsp;&nbsp;&nbsp;</code>Computational Pysics
+PY  | 525 | <code>&nbsp;&nbsp;&nbsp;</code>Computational Physics
 
 
