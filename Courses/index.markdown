@@ -3,6 +3,14 @@ layout: default
 title: Courses Taken
 ---
 
+#2015 *Fall*
+
+ST | 810 | <code>&nbsp;&nbsp;&nbsp;</code>Big Data
+:------------- | :------------- |:-------------
+CS | 530 | <code>&nbsp;&nbsp;&nbsp;</code>Computational Methods for Molecular Biology
+
+<br>
+
 #2015 *Spring*
 
 ST | 552 | <code>&nbsp;&nbsp;&nbsp;</code>Linear Models and Variance Components
@@ -48,7 +56,7 @@ MSE | 770 | <code>&nbsp;&nbsp;&nbsp;</code>Defects, Diffusion and Ion Implantati
 
 #2012 *Fall*
 
-ECE | 792 | <code>&nbsp;&nbsp;&nbsp;</code>Special Topics In Electrical Engineering
+ECE | 792 | <code>&nbsp;&nbsp;&nbsp;</code>ASSIST Course: Low Power Electronics
 :------------- | :------------- |:-------------
 MSE | 706 | <code>&nbsp;&nbsp;&nbsp;</code>Phase Transformations and Kinetics
 MSE | 708 | <code>&nbsp;&nbsp;&nbsp;</code>Thermodynamics Of Materials
