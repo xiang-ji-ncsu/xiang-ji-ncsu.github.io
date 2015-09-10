@@ -45,9 +45,7 @@ The goal was to develop a fabrication process using the mask-free laser interfer
 
 Here are some pictures for a taste of what I did. 
 
-{% include figure.html src="https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/images/Work%20in%20cleanroom.png" caption="Me working in cleanroom with UV Laser" %}
-
-<img align = "center" src ="https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/images/Work%20in%20cleanroom.png" caption = "Me working in cleanroom with UV Laser">
+<img src ="https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/images/Work%20in%20cleanroom.png">
 
 Periodic lines on sample |  Gas sensor prototype
 :---------------------------:|:---------------------------------:
