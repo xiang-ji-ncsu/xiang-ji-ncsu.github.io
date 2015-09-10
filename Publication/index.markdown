@@ -3,8 +3,6 @@ layout: default
 title: Research Projects
 ---
 
-I started out research working on Optics.
-
 ####Undergraduate Research
 
 **_Plasmonic Lense_** project, Peking University, 2010
