@@ -16,12 +16,6 @@ Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
 This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in multi-gene families. Our current program works for smallest multi-gene family (only 2 members). We are currently writing a draft. Hopefully, it will be sent out soon.
 
-
-
-*All of the files in this page are copyrighted . They are provided for your convenience, yet you may download them only if you are entitled to do so by your arrangements with various publishers.
-
-**Copyright statement copied from Dr. Jiasen Zhang's webpage.
-
 =======================================================
 
 
@@ -73,3 +67,9 @@ Advisor: Dr. Zhiping Zhou, EECS Department, Peking University
 
 I did my undergraduate thesis in this lab. Part of the work I did was to find a good doping location for SPP source design. The idea was to imbed light source inside a plasmon waveguide. You could find details in this published [paper](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/27914ae129b83c237d03d68fec002646d1163f69/Publication/Effect%20of%20dipole%20location%20on%20profile%20properties%20of%20symmetric%20surface%20plasmon%20polariton%20mode%20in%20Au-Al2O3-Au%20waveguide.pdf) which I co-authored.
 
+
+
+
+*All of the files in this page are copyrighted . They are provided for your convenience, yet you may download them only if you are entitled to do so by your arrangements with various publishers.
+
+**Copyright statement copied from Dr. Jiasen Zhang's webpage.
