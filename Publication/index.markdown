@@ -37,14 +37,17 @@ I did my undergraduate thesis in this lab. Part of the work I did was to find a 
 ####Master Thesis
 
 
-**_Laser Interference Lithography_** project, NC State University, 2012 - 2013
+**_Laser Interference Lithography_** project, NC State University, 2012
 
 Advisor: Dr. John Muth, EE Department, NC State University
 
 The goal was to develop a fabrication process using the mask-free laser interference lithography to easily introduce periodic pattern onto devices. We wanted to use it for gas sensor fabrication to increase the surface to volumn ratio which primarily determines gas-sensor's sensitivity. Details can be found in my [ugly-written thesis](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/27914ae129b83c237d03d68fec002646d1163f69/Publication/Laser%20Interference%20Lithography%20for%20Fabrication%20of%20Gas%20Sensors.pdf).
 
 Here are some pictures for a taste of what I did. 
-<div style="text-align:center"><img src ="https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/images/Work%20in%20cleanroom.png" /><figcaption>Me working in cleanroom</figcaption></div>
+
+{% include figure.html src="https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/images/Work%20in%20cleanroom.png" caption="Me working in cleanroom with UV Laser" %}
+
+<img align = "center" src ="https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/images/Work%20in%20cleanroom.png" caption = "Me working in cleanroom with UV Laser">
 
 Periodic lines on sample |  Gas sensor prototype
 :---------------------------:|:---------------------------------:
@@ -56,11 +59,13 @@ Periodic lines on sample |  Gas sensor prototype
 ####PhD Research
 
 **_Solvent Accessibility_** project, NC State University, 2013
+
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
 This was 'left-over' project that I helped finished. I extracted solvent accessibility information from protein coding genes in several species (human, mouse and Ecoli). Another senior PhD student built probabilistic model based these data. Details of this project can be found in this [paper](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/Publication/Roles%20of%20Solvent%20Accessibility%20and%20Gene%20Expression%20in%20Modeling%20Protein%20Sequence%20Evolution.pdf).
 
 **_Modeling Gene Conversion_** project, NC State University, 2014
+
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
 This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in multi-gene families. Our current program works for smallest multi-gene family (only 2 members). We are currently writing a draft. Hopefully, it will be sent out soon.
