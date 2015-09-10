@@ -67,3 +67,9 @@ Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
 This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in multi-gene families. Our current program works for smallest multi-gene family (only 2 members). We are currently writing a draft. Hopefully, it will be sent out soon.
 
+
+
+*All of the files in this page are copyrighted . They are provided for your convenience, yet you may download them only if you are entitled to do so by your arrangements with various publishers.
+
+**Copyright statement copied from Dr. Jiasen Zhang's webpage.
+
