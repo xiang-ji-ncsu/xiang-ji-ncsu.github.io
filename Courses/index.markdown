@@ -33,7 +33,7 @@ ST | 779 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Probability
 
 GN | 521 | <code>&nbsp;&nbsp;&nbsp;</code>Molecular Genetics
 :------------- | :------------- |:-------------
-ST | 522 | <code>&nbsp;&nbsp;&nbsp;</code>Statist Theory II
+ST | 522 | <code>&nbsp;&nbsp;&nbsp;</code>Statistical Theory II
 ST | 590 | <code>&nbsp;&nbsp;&nbsp;</code>Bio-informatics II
 ST | 746 | <code>&nbsp;&nbsp;&nbsp;</code>Introduction To Stochastic Processes
 

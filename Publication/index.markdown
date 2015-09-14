@@ -2,7 +2,7 @@
 layout: default
 title: Research Projects
 ---
-####PhD Research
+###PhD Research
 **_Modeling Gene Conversion_** project, NC State University, 2014
 
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
@@ -14,12 +14,12 @@ This is my main project. We are trying to develop phylogenetic model counting am
 
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
-This was 'left-over' project that I helped finished. I extracted solvent accessibility information from protein coding genes in several species (human, mouse and Ecoli). Another senior PhD student built probabilistic model based on these data. Details of this project can be found in this [paper](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/Publication/Roles%20of%20Solvent%20Accessibility%20and%20Gene%20Expression%20in%20Modeling%20Protein%20Sequence%20Evolution.pdf) which I co-authored.
+This was a 'left-over' project that I helped finished. I extracted solvent accessibility information from protein coding genes in several species (human, mouse and Ecoli). Another senior PhD student built probabilistic model based on these data. Details of this project can be found in this [paper](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/Publication/Roles%20of%20Solvent%20Accessibility%20and%20Gene%20Expression%20in%20Modeling%20Protein%20Sequence%20Evolution.pdf) which I co-authored.
 
 =======================================================
 
 
-####Master Thesis
+###Master Thesis
 
 
 **_Laser Interference Lithography_** project, NC State University, 2012
@@ -39,7 +39,7 @@ Periodic lines on sample |  Gas sensor prototype
 =======================================================
 
 
-####Undergraduate Research
+###Undergraduate Research
 
 **_SPP source_** project, Peking University, 2011
 
@@ -51,7 +51,7 @@ I did my undergraduate thesis in this lab. Part of the work I did was to find a 
 
 Advisor: [Dr. Jiasen Zhang](http://www.phy.pku.edu.cn/~zhangjs/index.html), Physics Department, Peking University
 
-The Goal was to design, fabricated, test rectangular shape plasmonic lense composit of nano-scaled slots on a 200nm thin gold film on glass substrate being able to generate sharper focus. This work stays unpublished. 
+The Goal was to design, fabricate and test rectangular shape plasmonic lense composit of nano-scaled slots on a 200nm thin gold film on glass substrate being able to generate sharper focus. This work stays unpublished. 
 
 Due to detection limit, we could not provide direct proof that our device worked by the fact that our image detection system was only sensitive to XY plane (parallel to the device) of the optical field whereas the focus intensity mainly lied in Z direction. If possible, a near field optic probe may detect the focus point and give a direct proof. I show my simulated light intensity distribution at XY plane of the focus point together with experimental result below to give you an idea.
 
