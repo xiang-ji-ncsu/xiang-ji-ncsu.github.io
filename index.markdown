@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Xiang Ji | 汲翔
+title: Xiang Ji  汲翔
 ---
 
 # Welcome!
