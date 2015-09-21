@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Xiang Ji webpage
+title: Xiang Ji | 汲翔
 ---
 
 # Welcome!
