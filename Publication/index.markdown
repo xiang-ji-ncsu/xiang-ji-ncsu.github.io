@@ -47,7 +47,7 @@ Advisor: Dr. Zhiping Zhou, EECS Department, Peking University
 
 I did my undergraduate thesis in this lab. Part of the work I did was to find a good doping location for SPP source design. The idea was to imbed light source inside a plasmon waveguide. You could find details in this published [paper](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/27914ae129b83c237d03d68fec002646d1163f69/Publication/Effect%20of%20dipole%20location%20on%20profile%20properties%20of%20symmetric%20surface%20plasmon%20polariton%20mode%20in%20Au-Al2O3-Au%20waveguide.pdf) which I co-authored.
 
-**_Plasmonic Lense_** project, Peking University, 2010
+**_Plasmonic Lens_** project, Peking University, 2010
 
 Advisor: [Dr. Jiasen Zhang](http://www.phy.pku.edu.cn/~zhangjs/index.html), Physics Department, Peking University
 
