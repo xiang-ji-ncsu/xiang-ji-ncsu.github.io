@@ -1,2 +1,1 @@
-Jekyll powered personal webpage currently under construction
-using Solar theme for Jekyll
+Jekyll powered [personal webpage](https://xiang-ji-ncsu.github.io/) using Solar theme for Jekyll
