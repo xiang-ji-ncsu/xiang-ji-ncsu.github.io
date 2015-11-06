@@ -11,3 +11,7 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 safe: true
 
 google_analytics: UA-69626748-1
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
