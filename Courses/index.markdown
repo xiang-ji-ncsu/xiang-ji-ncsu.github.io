@@ -7,7 +7,6 @@ title: Courses Taken
 
 ST | 810 | <code>&nbsp;&nbsp;&nbsp;</code>Bioinfomatics Consulting
 :------------- | :------------- |:-------------
-ST | 790 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Computing
 GN | 735 | <code>&nbsp;&nbsp;&nbsp;</code>Functional Genomics
 
 <br>
