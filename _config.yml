@@ -4,7 +4,8 @@ description: A place for some footprints
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
-pygments: true
+pygments: false
+highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
