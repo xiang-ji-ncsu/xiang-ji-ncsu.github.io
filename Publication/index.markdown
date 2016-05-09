@@ -2,7 +2,7 @@
 layout: default
 title: Research Projects
 ---
-### PhD Research
+## PhD Research
 
 **_Modeling Gene Conversion_** project, NC State University, 2014
 
@@ -22,7 +22,7 @@ This was a 'left-over' project that I helped finished. I extracted solvent acces
 =======================================================
 
 
-### Master Thesis
+## Master Thesis
 
 
 **_Laser Interference Lithography_** project, NC State University, 2012
@@ -42,7 +42,7 @@ Periodic lines on sample |  Gas sensor prototype
 =======================================================
 
 
-### Undergraduate Research
+## Undergraduate Research
 
 **_SPP source_** project, Peking University, 2011
 
