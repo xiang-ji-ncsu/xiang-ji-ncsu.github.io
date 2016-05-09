@@ -7,7 +7,7 @@ title: Research Projects
 
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
-This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in the evolution of multi-gene families. Our current program works for smallest multi-gene family (only 2 members). We are currently writing a draft. Hopefully, it will be sent out soon.
+This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in the evolution of multi-gene families. Our current program works for smallest multi-gene family (only 2 members). Our paper has been accepted by MBE (Molecular Biology and Evolution). 
 
 Here is the [github repository](https://github.com/xji3/Genconv).
 
