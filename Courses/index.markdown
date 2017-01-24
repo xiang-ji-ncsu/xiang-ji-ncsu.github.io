@@ -2,6 +2,12 @@
 layout: default
 title: Courses Taken
 ---
+# 2017 *Spring*
+
+ST | 790 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Computing
+:------------- | :------------- |:-------------
+
+<br>
 
 # 2016 *Spring*
 
