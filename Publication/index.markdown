@@ -4,13 +4,28 @@ title: Research Projects
 ---
 ## PhD Research
 
+
+**_IGC and gene duplication loss histories of primate ADH1 genes_** project, NC State University, 2017
+
+Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
+
+Motivated by primate ADH1 data, I extended our method (as in [Ji et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1)) so that up to 6 paralogs per genome can be considered. I am improving my software to answer interesting biological questions (e.g., permitting asymmetry among paralogs in tendency to serve as IGC donor, investigating how distance between tandem paralogs affects IGC, summarizing how paralog divergence changes IGC). I am also considering different gene duplication loss histories and how incorporating IGC could help with orthologous mapping. This ongoing project can be found [here on github](https://github.com/xji3/ADH1Genes).  
+
+
+**_Disentangling IGC tract length and initiation rate_** project, NC State University, 2016
+
+Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
+
+A shortcoming of our original approach (see the **_Modeling Gene Conversion_** project, also as in [Ji et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1)) towards quantifying interlocus gene conversion (IGC) was its inability to infer the tract length distribution of (fixed) IGC events.  I developed a method to address this and am beginning to apply it. This ongoing project can be found [here on github](https://github.com/xji3/YeastIGCTract).  
+
+
 **_Modeling Gene Conversion_** project, NC State University, 2014
 
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
-This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in the evolution of multi-gene families. Our current program works for smallest multi-gene family (only 2 members). Our [paper](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1) is published in MBE (Molecular Biology and Evolution). 
+Interlocus gene conversion (IGC) homogenizes repeats.  While genomes can be repeat-rich, the evolutionary importance of IGC is poorly understood, largely due to a lack of statistical tools.  We developed a strategy for adding IGC to widely-used probabilistic models for sequence change.  In 14 groups of yeast ribosomal protein genes, we estimated the percentage of codon substitutions that originate with IGC rather than point mutation.  We found values ranging from 20% to 38%.  Our results are consistent with an important role for IGC in the evolution of each of the 14 gene families.  Our [paper](https://academic.oup.com/mbe/article/33/9/2469/2579387/A-Phylogenetic-Approach-Finds-Abundant-Interlocus) is published in MBE (_Molecular Biology and Evolution_). 
 
-Here is the [github repository](https://github.com/xji3/JGT_MBE_2016).
+Here is the [github repository](https://github.com/xji3/JGT_MBE_2016) of the publication. This [github repository](https://github.com/xji3/IGCexpansion) keeps my under developing software cade.
 
 
 **_Solvent Accessibility_** project, NC State University, 2013
