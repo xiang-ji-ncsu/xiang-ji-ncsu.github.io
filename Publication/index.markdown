@@ -5,18 +5,18 @@ title: Research Projects
 ## PhD Research
 
 
-**_IGC and gene duplication loss histories of primate ADH1 genes_** project, NC State University, 2017
-
-Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
-
-Motivated by primate ADH1 data, I extended our method (as in [Ji et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1)) so that up to 6 paralogs per genome can be considered. I am improving my software to answer interesting biological questions (e.g., permitting asymmetry among paralogs in tendency to serve as IGC donor, investigating how distance between tandem paralogs affects IGC, summarizing how paralog divergence changes IGC). I am also considering different gene duplication loss histories and how incorporating IGC could help with orthologous mapping. This ongoing project can be found [here on github](https://github.com/xji3/ADH1Genes).  
-
-
-**_Disentangling IGC tract length and initiation rate_** project, NC State University, 2016
+**_Disentangling IGC tract length and initiation rate_** project, NC State University, 2017
 
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
 A shortcoming of our original approach (see the **_Modeling Gene Conversion_** project, also as in [Ji et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1)) towards quantifying interlocus gene conversion (IGC) was its inability to infer the tract length distribution of (fixed) IGC events.  I developed a method to address this and am beginning to apply it. This ongoing project can be found [here on github](https://github.com/xji3/YeastIGCTract).  
+
+
+**_IGC and gene duplication loss histories of primate ADH1 genes_** project, NC State University, 2016
+
+Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
+
+Motivated by primate ADH1 data, I extended our method (as in [Ji et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1)) so that up to 6 paralogs per genome can be considered. I am improving my software to answer interesting biological questions (e.g., permitting asymmetry among paralogs in tendency to serve as IGC donor, investigating how distance between tandem paralogs affects IGC, summarizing how paralog divergence changes IGC). I am also considering different gene duplication loss histories and how incorporating IGC could help with orthologous mapping. This ongoing project can be found [here on github](https://github.com/xji3/ADH1Genes).  
 
 
 **_Modeling Gene Conversion_** project, NC State University, 2014
