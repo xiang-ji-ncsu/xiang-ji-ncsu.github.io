@@ -25,7 +25,7 @@ Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
 Interlocus gene conversion (IGC) homogenizes repeats.  While genomes can be repeat-rich, the evolutionary importance of IGC is poorly understood, largely due to a lack of statistical tools.  We developed a strategy for adding IGC to widely-used probabilistic models for sequence change.  In 14 groups of yeast ribosomal protein genes, we estimated the percentage of codon substitutions that originate with IGC rather than point mutation.  We found values ranging from 20% to 38%.  Our results are consistent with an important role for IGC in the evolution of each of the 14 gene families.  Our [paper](https://academic.oup.com/mbe/article/33/9/2469/2579387/A-Phylogenetic-Approach-Finds-Abundant-Interlocus) is published in MBE (_Molecular Biology and Evolution_). 
 
-Here is the [github repository](https://github.com/xji3/JGT_MBE_2016) of the publication. This [github repository](https://github.com/xji3/IGCexpansion) keeps my under developing software cade.
+Here is the [github repository](https://github.com/xji3/JGT_MBE_2016) of the publication. This [github repository](https://github.com/xji3/IGCexpansion) keeps my under development software code.
 
 
 **_Solvent Accessibility_** project, NC State University, 2013
