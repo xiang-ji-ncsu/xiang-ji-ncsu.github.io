@@ -9,7 +9,7 @@ title: Research Projects
 
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
-A shortcoming of our original approach (see the **_Modeling Gene Conversion_** project, also as in [Ji et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1)) towards quantifying interlocus gene conversion (IGC) was its inability to infer the tract length distribution of (fixed) IGC events.  I developed a method to address this and am beginning to apply it. This ongoing project can be found [here on github](https://github.com/xji3/YeastIGCTract).  
+A shortcoming of our original approach (see the _Modeling Gene Conversion_ project, also as in [Ji et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1)) towards quantifying interlocus gene conversion (IGC) was its inability to infer the tract length distribution of (fixed) IGC events.  I developed a method to address this and am beginning to apply it. This ongoing project can be found [here on github](https://github.com/xji3/YeastIGCTract).  
 
 
 **_IGC and gene duplication loss histories of primate ADH1 genes_** project, NC State University, 2016
