@@ -6,7 +6,7 @@ title: Xiang Ji  汲翔
 # Welcome!
 
 
-I am a Postdoc researcher in Dr. Marc Suchard's group at UCLA. 
+I am a Postdoc researcher in [Dr. Marc Suchard](http://faculty.biomath.ucla.edu/msuchard/)'s group at UCLA. 
 
 I got my PhD degree in Bio-informatics and Statistics from North Carolina State University under [Dr. Jeff Thorne](http://statgen.ncsu.edu/thorne/)'s direction. 
 
