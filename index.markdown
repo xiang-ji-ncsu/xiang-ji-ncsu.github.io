@@ -6,11 +6,12 @@ title: Xiang Ji  汲翔
 # Welcome!
 
 
-I am a PhD student in Bio-informatics at North Carolina State University. 
+I am a Postdoc researcher in Dr. Marc Suchard's group at UCLA. 
 
-Before coming to Bio-informatics I earned my BS degrees in Physics and Economics from Peking University, China. My advisor was [Dr. Jiasen Zhang](http://www.phy.pku.edu.cn/~zhangjs/index.html).
+I got my PhD degree in Bio-informatics and Statistics from North Carolina State University under [Dr. Jeff Thorne](http://statgen.ncsu.edu/thorne/)'s direction. 
 
-I earned my MS degree in Material Science and Engineering here at NC State. My thesis advisor was [Dr. John Muth](http://www.ece.ncsu.edu/people/muth). 
+Before coming to the USA,  I earned my BS degrees in Physics and Economics from Peking University, China. My advisor was [Dr. Jiasen Zhang](http://www.phy.pku.edu.cn/~zhangjs/index.html).
 
-I am currently working under [Dr. Jeff Thorne](http://statgen.ncsu.edu/thorne/)'s direction. 
+I earned my MS degree in Material Science and Engineering at NC State as well. My thesis advisor was [Dr. John Muth](http://www.ece.ncsu.edu/people/muth). 
+
 
