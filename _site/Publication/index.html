@@ -40,6 +40,7 @@
 -->
           <li><a href="/Courses">Courses Taken</a></li> 
           <li><a href="/Publication">Projects</a></li>
+          <li><a href="/CV">CV</a></li>
 <!--
 -->
 
@@ -50,14 +51,27 @@
 
 
     <div id="content">
-      <h3 id="phd-research">PhD Research</h3>
+      <h2 id="phd-research">PhD Research</h2>
+
+<p><strong><em>Disentangling IGC tract length and initiation rate</em></strong> project, NC State University, 2017</p>
+
+<p>Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University</p>
+
+<p>A shortcoming of our original approach (see the <em>Modeling Gene Conversion</em> project, also as in <a href="http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1">Ji et al. 2016</a>) towards quantifying interlocus gene conversion (IGC) was its inability to infer the tract length distribution of (fixed) IGC events.  I developed a method to address this and am beginning to apply it. This ongoing project can be found <a href="https://github.com/xji3/YeastIGCTract">here on github</a>.</p>
+
+<p><strong><em>IGC and gene duplication loss histories of primate ADH1 genes</em></strong> project, NC State University, 2016</p>
+
+<p>Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University</p>
+
+<p>Motivated by primate ADH1 data, I extended our method (as in <a href="http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1">Ji et al. 2016</a>) so that up to 6 paralogs per genome can be considered. I am improving my software to answer interesting biological questions (e.g., permitting asymmetry among paralogs in tendency to serve as IGC donor, investigating how distance between tandem paralogs affects IGC, summarizing how paralog divergence changes IGC). I am also considering different gene duplication loss histories and how incorporating IGC could help with orthologous mapping. This ongoing project can be found <a href="https://github.com/xji3/ADH1Genes">here on github</a>.</p>
+
 <p><strong><em>Modeling Gene Conversion</em></strong> project, NC State University, 2014</p>
 
 <p>Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University</p>
 
-<p>This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in the evolution of multi-gene families. Our current program works for smallest multi-gene family (only 2 members). We are currently writing a draft. Hopefully, it will be sent out soon.</p>
+<p>Interlocus gene conversion (IGC) homogenizes repeats.  While genomes can be repeat-rich, the evolutionary importance of IGC is poorly understood, largely due to a lack of statistical tools.  We developed a strategy for adding IGC to widely-used probabilistic models for sequence change.  In 14 groups of yeast ribosomal protein genes, we estimated the percentage of codon substitutions that originate with IGC rather than point mutation.  We found values ranging from 20% to 38%.  Our results are consistent with an important role for IGC in the evolution of each of the 14 gene families.  Our <a href="https://academic.oup.com/mbe/article/33/9/2469/2579387/A-Phylogenetic-Approach-Finds-Abundant-Interlocus">paper</a> is published in MBE (<em>Molecular Biology and Evolution</em>).</p>
 
-<p>Here is the <a href="https://github.com/xji3/Genconv">github repository</a>.</p>
+<p>Here is the <a href="https://github.com/xji3/JGT_MBE_2016">github repository</a> of the publication. This <a href="https://github.com/xji3/IGCexpansion">github repository</a> keeps my under development software code.</p>
 
 <p><strong><em>Solvent Accessibility</em></strong> project, NC State University, 2013</p>
 
@@ -67,7 +81,7 @@
 
 <p>=======================================================</p>
 
-<h3 id="master-thesis">Master Thesis</h3>
+<h2 id="master-thesis">Master Thesis</h2>
 
 <p><strong><em>Laser Interference Lithography</em></strong> project, NC State University, 2012</p>
 
@@ -96,7 +110,7 @@
 
 <p>=======================================================</p>
 
-<h3 id="undergraduate-research">Undergraduate Research</h3>
+<h2 id="undergraduate-research">Undergraduate Research</h2>
 
 <p><strong><em>SPP source</em></strong> project, Peking University, 2011</p>
 
@@ -159,7 +173,7 @@
 
 
   <footer id="footer">
-    <p class="copyright">Copyright &copy; 2015 Xiang Ji's Webpage. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/mattvh/solar-theme-jekyll">Matt Harzewski</a></p>
+    <p class="copyright">Copyright &copy; 2018 Xiang Ji's Webpage. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/mattvh/solar-theme-jekyll">Matt Harzewski</a></p>
   </footer>
 
 
@@ -183,7 +197,7 @@
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 		ga('create', 'UA-69626748-1', 'auto');
 		ga('send', 'pageview', {
-		  'page': '/Publication/index.html',
+		  'page': '/Publication/',
 		  'title': 'Research Projects'
 		});
 	</script>
