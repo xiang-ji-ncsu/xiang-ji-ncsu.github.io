@@ -7,11 +7,10 @@ title: Xiang Ji  汲翔
 
 
 I am an Assistant Professor in the Math Department at Tulane University.
-I did my Postdoc with [Dr. Marc Suchard](http://faculty.biomath.ucla.edu/msuchard/) at UCLA.
-I got my PhD degree in Bio-informatics and Statistics from North Carolina State University under [Dr. Jeff Thorne](http://statgen.ncsu.edu/thorne/)'s direction. 
+I work on statistical phylogenetics, from model development to practical parallel computing library implementation.  An old research statement (with some of the items already published) discusses this research direction in more detail in the [Research](./Publication/index.html)
 
-Before coming to the USA,  I earned my BS degrees in Physics and Economics from Peking University, China. My advisor was [Dr. Jiasen Zhang](http://www.phy.pku.edu.cn/~zhangjs/index.html).
+I have been collaborating with my colleague [Dr. Wu-Min Deng](https://medicine.tulane.edu/departments/biochemistry-molecular-biology-deng-lab-tulane-cancer-center-tulane-center-aging/all) at Tulane University on Cancer Biology research.  My role is on the Bioinformatics side.  We are looking for self-motivated Ph.D. students (including future ones) to join the research groups.  Please find more detail in the ad below. 
 
-I earned my MS degree in Material Science and Engineering at NC State as well. My thesis advisor was [Dr. John Muth](http://www.ece.ncsu.edu/people/muth). 
-
-
+<div style="text-align:center">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQTcrmCHhU0DJY3umkdX7TFuDXzSyDF_ampqFZz_iGyk6HhwMd_mA3GfiCY6s7KHLqBb-9StWXrs_rw/pub?embedded=true" style="width:612px; height:792px;" frameborder="0"></iframe>
+</div>
