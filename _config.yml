@@ -11,7 +11,7 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 safe: true
 
-google_analytics: UA-69626748-1, G-V11S3X03Q2
+google_analytics: G-V11S3X03Q2
 
 # Use the following plug-ins
 gems:
