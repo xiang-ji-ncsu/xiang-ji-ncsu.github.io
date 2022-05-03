@@ -2,18 +2,26 @@
 <html>
 <head>
 
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width">
+	<meta charset="UTF-8">
+	<title>{{ page.title }}</title>
+	<meta name="viewport" content="width=device-width">
 
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-light.css" rel="stylesheet" />
+	<link href="/assets/css/style.css" rel="stylesheet" />
+	<link href="/assets/css/colors-light.css" rel="stylesheet" />
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-V11S3X03Q2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'G-V11S3X03Q2');
+	</script>
 
 </head>
 
@@ -64,18 +72,5 @@
     <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/mattvh/solar-theme-jekyll">Matt Harzewski</a></p>
   </footer>
 
-
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
-
-  <script>
-    $(document).ready(function(){
-      $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
-    });
-  </script>
-
-
-{% include google_analytics.html %}
 </body>
 </html>
