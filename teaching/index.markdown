@@ -7,6 +7,8 @@ title: Teaching
 
 #### Iowa State University
 
+* STAT 3030, Probability and Statistics for Computer Science. [2026 fall](https://canvas.iastate.edu/courses/128800)
+* STAT 5101, Statistical Methods for Data Analysis. [2026 fall](https://canvas.iastate.edu/courses/131479)
 * STAT 4212/5212, Experimental Design and Data Analysis. [2026 spring](https://canvas.iastate.edu/courses/126618)
 
 #### Tulane University
